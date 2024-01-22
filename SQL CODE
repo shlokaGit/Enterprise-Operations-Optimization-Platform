@@ -1,6 +1,6 @@
 Following are the SQL statements executed to create the tables in the Database
 
-DEPARTMENT TABLE:-
+** DEPARTMENT TABLE:- **
   CREATE TABLE  "DEPARTMENT" 
    (	"DEPARTMENTID" VARCHAR2(10) COLLATE "USING_NLS_COMP", 
 	"DEPARTMENTNAME" VARCHAR2(50) COLLATE "USING_NLS_COMP", 
